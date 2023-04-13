@@ -85,9 +85,11 @@ endmodule
 
 ## Timing diagram :
 ### half:
-
+![WhatsApp Image 2023-04-13 at 11 50 20](https://user-images.githubusercontent.com/119401470/231672206-9516a4ba-c38a-47c1-bd0d-21d7f322a246.jpg)
 
 ###full:
+
+![WhatsApp Image 2023-04-13 at 11 50 07](https://user-images.githubusercontent.com/119401470/231672303-462c7592-0b39-4be1-9895-914081d77a71.jpg)
 
 
 ## Result:
